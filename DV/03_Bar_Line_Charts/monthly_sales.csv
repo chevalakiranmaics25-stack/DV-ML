@@ -1,0 +1,17 @@
+Month,MonthNumber,Category,Sales,Orders
+Jan,1,Technology,42000,34
+Jan,1,Furniture,28000,22
+Feb,2,Technology,46500,38
+Feb,2,Furniture,31000,25
+Mar,3,Technology,51000,41
+Mar,3,Furniture,29500,24
+Apr,4,Technology,48500,39
+Apr,4,Furniture,34000,28
+May,5,Technology,57000,46
+May,5,Furniture,36500,30
+Jun,6,Technology,61000,49
+Jun,6,Furniture,39000,32
+Jul,7,Technology,59000,47
+Jul,7,Furniture,41000,34
+Aug,8,Technology,66000,53
+Aug,8,Furniture,43000,36
