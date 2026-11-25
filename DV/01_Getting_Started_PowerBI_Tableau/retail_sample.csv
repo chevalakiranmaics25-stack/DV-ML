@@ -1,0 +1,13 @@
+OrderID,OrderDate,Region,Category,SubCategory,City,Sales,Quantity,Profit
+1001,2025-01-05,North,Furniture,Chairs,Delhi,12500,2,1800
+1002,2025-01-12,South,Technology,Phones,Chennai,22000,1,3200
+1003,2025-02-02,East,Office Supplies,Paper,Kolkata,1800,6,450
+1004,2025-02-18,West,Furniture,Tables,Mumbai,14500,1,900
+1005,2025-03-04,North,Technology,Laptops,Delhi,56000,1,7200
+1006,2025-03-19,South,Office Supplies,Binders,Bengaluru,3200,4,650
+1007,2025-04-07,East,Furniture,Bookcases,Kolkata,9800,1,1100
+1008,2025-04-22,West,Technology,Accessories,Pune,4500,3,900
+1009,2025-05-10,North,Office Supplies,Storage,Jaipur,6200,2,700
+1010,2025-05-26,South,Furniture,Chairs,Hyderabad,8700,2,1300
+1011,2025-06-08,East,Technology,Phones,Bhubaneswar,18500,1,2700
+1012,2025-06-21,West,Office Supplies,Paper,Ahmedabad,2400,8,520
